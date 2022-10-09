@@ -6,7 +6,7 @@
 
 📚💻 Estudante da 10ª Edição Programa Starter - Developer Full Stack - [Growdev](https://www.growdev.com.br)<br>
 
-Estudando no momento: **HtTML, CSS, Git e GitHub**
+Estudando no momento: **HTML, CSS, Git,GitHub e JavaScript**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-costa-mateus/)](https://www.linkedin.com/in/victor-costa-mateus/)
