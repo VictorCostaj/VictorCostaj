@@ -29,7 +29,5 @@ Estudando no momento: **HTML, CSS, Git,GitHub e JavaScript**
 <h2>GitHub Stats 😊</h2>
 <div style="text-align:center;>
 <a href="https://github.com/VictorCostaj">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=VictorCostaj&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150px" width="px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCostaj&layout=compact&langs_count=7&theme=gruvbox" 
     </div>
 
