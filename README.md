@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Victor Costa</h1>
 <p align = "justify">👨🏾‍🎓 Formado em Filosofia, 📚Graduando em Administração. Nas horas vagas gosto de dormir 😴 e tocar violão 🎸</p>
 
-📚💻 Estudante da 10ª Edição Programa Starter - Developer Full Stack - [Growdev](https://www.growdev.com.br)<br>
+📚💻 Estudante da 14ª Edição Programa Starter - Developer Full Stack - [Growdev](https://www.growdev.com.br)<br>
 
 Estudando no momento: **HTML, CSS, Git,GitHub e JavaScript**
 
