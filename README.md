@@ -1,5 +1,4 @@
 # 💫 About Me:
-<p align="left"><img src="https://komarev.com/ghpvc/?username=VictorCostaj" alt="dexternatan" /></p>
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Victor Costa</h1>
 <p align = "justify">👨🏾‍🎓 Formado em Filosofia, 📚Graduando em Administração. Nas horas vagas gosto de dormir 😴 e tocar violão 🎸</p>
 
