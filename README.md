@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-costa-mateus/)](https://www.linkedin.com/in/victor-costa-mateus/)
 [![Instagram Badge](https://img.shields.io/badge/-vitinhomateuss-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vitinhomateuss/)
-![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorjosueldacosta@gmail.com)](mailto:victorjosueldacosta@gmail.com)
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
