@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Victor Costa</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Victor Costa</h1>
 <p align = "justify">👨🏾‍🎓 Formado em Filosofia e Administração. Nas horas vagas gosto de dormir 😴 e tocar violão 🎸</p>
 
 📚💻 Cursando Análise e Desenvolvimento de Sistemas e Pós graduação em Engenharia de Dados e IA
