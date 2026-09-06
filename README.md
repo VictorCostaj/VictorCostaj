@@ -6,6 +6,8 @@ width="25px"-->
 
 📚💻 Cursando Análise e Desenvolvimento de Sistemas e Pós graduação em Engenharia de Dados e IA
 
+LISTA DE PROJETOS E ESTUDOS AQUI: 
+https://github.com/VictorCostaj/estudos-dev
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-costa-mateus/)](https://www.linkedin.com/in/victor-costa-mateus/)
